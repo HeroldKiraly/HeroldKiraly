@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Herold.
 #### I am studying Front End Development through Codecademy
-![I am studying Front End Development through Codecademy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am studying Front End Development through Codecademy](https://user-images.githubusercontent.com/14625850/177208367-2d5da89d-9e4c-4afa-8aee-8fab004faf57.png)
 
 Aspiring Front End Developer to try to make the web a better place one line of code at a time.
 
