@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Herold.
 #### I am studying Front End Development through Codecademy
 
-Aspiring Front End Developer to try to make the web a better place one line of code at a time.
-
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on Codecademy Front End Dev Course 
