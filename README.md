@@ -12,7 +12,7 @@
 - 📫 How to reach me: kiraly-h@protonmail.com
 
 
-
+## My Github Stats
 <a href="https://github.com/heroldkiraly">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroldkiraly&hide=html,css&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" />
 </a>
@@ -20,3 +20,8 @@
 <a href="https://github.com/heroldkiraly">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=heroldkiraly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" alt="Herold's GitHub Stats" />
 </a>
+
+## 💼 My Skills
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=94a3ff)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=94a3ff)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=94a3ff)![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=94a3ff)
