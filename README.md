@@ -6,7 +6,7 @@
 #### A little about myself, it all started in 2013 when I started a hobby to program video games, websites and smaller applications for personal use. I have tried many different kinds of career paths and just recently gained back the passion to focus on Front End Development full time. I find great enjoyment in taking ideas, conceptual designs, and converting them into pixel perfect functional user experiences.
 
 
-- 🔭 I’m currently working on updating my portfolio website
+- 🔭 I’m currently working on a React multi page user form
 - 🌱 I’m currently learning React Framework
 - 💬 Ask me about my current projects
 - 📫 How to reach me: kiraly-h@protonmail.com
