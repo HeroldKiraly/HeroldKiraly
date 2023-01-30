@@ -14,7 +14,7 @@
 
 ## My Github Stats
 <a href="https://github.com/heroldkiraly">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroldkiraly&hide=html,css&langs_count=6&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroldkiraly&hide=html,css&langs_count=6&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" />
 </a>
 
 <a href="https://github.com/heroldkiraly">
