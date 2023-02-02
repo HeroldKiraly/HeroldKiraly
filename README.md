@@ -1,10 +1,7 @@
-[![GitHub Banner](/banner_secondary.png)](https://heroldkiraly.github.io/)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=94a3ff)](https://twitter.com/KiralyHerold) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=94a3ff)](https://www.linkedin.com/in/) [![Portfolio Website](https://img.shields.io/badge/My-Website-94a3ff)](https://heroldkiraly.github.io/)
-
+<!-- [![GitHub Banner](/banner_secondary.png)](https://heroldkiraly.github.io/) -->
 ### Hi there 👋, my name is Herold.
-#### Welcome to my Github profile where you can find all my most recent projects and experiments, tread carefully :)
-
+#### Welcome to my Github profile where you can find all my most recent projects and experiments :)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=94a3ff)](https://twitter.com/KiralyHerold) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=94a3ff)](https://www.linkedin.com/in/) [![Portfolio Website](https://img.shields.io/badge/My-Website-94a3ff)](https://heroldkiraly.github.io/)
 
 - 🔭 I’m currently working on a Web3 Dapp using Next JS.
 - 🌱 I’m currently learning React Framework
@@ -18,7 +15,7 @@
 </a>
 
 <a href="https://github.com/heroldkiraly">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=heroldkiraly&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" alt="Herold's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=heroldkiraly&show_icons=true&line_height=27&hide=contribs,prs$count_private=true&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" alt="My Github Stats" />
 </a>
 
 ## 💼 My Skills
