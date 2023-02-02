@@ -9,13 +9,12 @@
 - 📫 How to reach me: kiraly-h@protonmail.com
 
 
-## My Github Stats
+## Checkout my Github Stats
 <a href="https://github.com/heroldkiraly">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroldkiraly&langs_count=6&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" />
 </a>
-
 <a href="https://github.com/heroldkiraly">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=heroldkiraly&show_icons=true&line_height=27&hide=contribs,prs$count_private=true&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" alt="My Github Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=heroldkiraly&show_icons=true&line_height=27&hide=contribs,prs,issues$count_private=true&title_color=ffffff&text_color=ffffff&icon_color=b6760bff&bg_color=94a3ff" alt="My Github Stats" />
 </a>
 
 ## 💼 My Skills
