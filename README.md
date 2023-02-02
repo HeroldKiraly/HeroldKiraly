@@ -23,5 +23,5 @@
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=critical)![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=critical)![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=critical)
 
 ### More Skills
-![](https://img.shields.io/badge/Code-C%20lang-critical)![](https://img.shields.io/badge/Code-PHP-critical)![](https://img.shields.io/badge/Code-Python-critical)![](https://img.shields.io/badge/Backend-Flask-critical)![](https://img.shields.io/badge/Tools-Next JS-critical)
+![](https://img.shields.io/badge/Code-C%20lang-critical)![](https://img.shields.io/badge/Code-PHP-critical)![](https://img.shields.io/badge/Code-Python-critical)![](https://img.shields.io/badge/Backend-Flask-critical)![](https://img.shields.io/badge/Tools-NextJS-critical)
 
