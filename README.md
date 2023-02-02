@@ -25,6 +25,6 @@
 <details>
 <summary>More Skills</summary>
 <br>
-![https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=critical](https://img.shields.io/badge/Code-C%20lang-critical)
+![](https://img.shields.io/badge/Code-C%20lang-critical)
 </details>
 
