@@ -25,6 +25,8 @@
 <details>
 <summary>More Skills</summary>
 <br>
-![](https://img.shields.io/badge/Code-C%20lang-critical)
+  <span>
+  ![](https://img.shields.io/badge/Code-C%20lang-critical)
+  </span>
 </details>
 
